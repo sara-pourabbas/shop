@@ -1,0 +1,38 @@
+$BlackCustom : #2F3641;
+$lightGray:#F0F1F2;
+
+.product{
+    .product__name{
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        width: 190px;
+        cursor: pointer;  
+    }
+    .product__name,.product__compute-count{
+        color: $BlackCustom;        
+    }
+    .product__compute{
+        display: flex;
+        align-items: center;
+        width: 138px;
+        height: 48px;
+        border:1px solid $lightGray;
+        border-radius: 5px;       
+    }
+    .product__compute-increment,.product__compute-decrement{
+        cursor: pointer;
+    }
+    .product__compute-count{
+        font-size: 20px;
+        background-color: $lightGray;
+    }
+    .product__compute-count,.product__compute-increment,.product__compute-decrement{
+        display: flex;
+        align-items: center;
+        justify-content: center;    
+        width: 46px;
+        height: 46px;
+        
+    }
+}

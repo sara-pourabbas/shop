@@ -1,0 +1,43 @@
+
+@import "~bootstrap/scss/bootstrap";
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../font/Roboto-Medium.ttf');
+    src: url('../font/Roboto-Regular.ttf');
+    src: url('../font/Roboto-Bold.ttf');
+  }
+  .roboto-font{
+    font-family: Roboto ;
+  }
+  .wrapper{
+      padding-top: 6rem;
+      padding-bottom: 10rem;
+  }
+  .font-size-14{
+    font-size: 14px; 
+}
+.font-size-18{
+  font-size: 18px; 
+}
+.font-size-22{
+  font-size: 22px;
+}
+.gray-costum{
+color:#6B727E
+}
+.gray-light{
+    color:#C7C7C7
+}
+.border-radius-5{
+  border-radius: 5px;
+}
+.price-color{
+  color:#EF553B
+}
+.black-custom{
+  color:#2F3641;
+}
+.font-size-20{
+  font-size: 20px;
+}

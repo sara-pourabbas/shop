@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13.96" height="13.97" viewBox="0 0 13.96 13.97">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="vectorMask" width="13.96" height="13.97" transform="translate(758.01 470.03)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="price-tag" transform="translate(-758.01 -470.03)">
+    <g id="Group_3" data-name="Group 3">
+      <rect id="Clip_2" data-name="Clip 2" width="13.96" height="13.97" transform="translate(758.01 470.03)" fill="rgba(0,0,0,0)"/>
+      <g id="Mask_by_Clip_2" data-name="Mask by Clip 2" clip-path="url(#clip-path)">
+        <g id="Mask_by_Clip_2-2" data-name="Mask by Clip 2">
+          <path id="Fill_1" data-name="Fill 1" d="M764.264,484a.5.5,0,0,1-.358-.148l-5.757-5.757a.505.505,0,0,1,0-.716l7.2-7.2a.513.513,0,0,1,.358-.148h5.757a.507.507,0,0,1,.506.507V476.3a.509.509,0,0,1-.148.357l-7.2,7.2A.5.5,0,0,1,764.264,484Zm1.649-12.955h0l-6.691,6.691,5.043,5.042,6.691-6.691v-5.042Z" fill="#6b727e"/>
+        </g>
+      </g>
+    </g>
+    <path id="Fill_4" data-name="Fill 4" d="M768.5,475a1.5,1.5,0,1,1,1.061-.44A1.491,1.491,0,0,1,768.5,475Zm0-2a.5.5,0,1,0,.354.147A.5.5,0,0,0,768.5,473Z" fill="#6b727e"/>
+  </g>
+</svg>
